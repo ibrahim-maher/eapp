@@ -1,0 +1,5 @@
+# Project exclude paths
+/.dart_tool/
+/build/
+/packages/flutterflow/.dart_tool/
+/packages/flux_firebase/.dart_tool/

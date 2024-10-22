@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "387521096406",
+    "project_id": "toys-box-74083",
+    "storage_bucket": "toys-box-74083.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387521096406:android:a967622986567fa888f777",
+        "android_client_info": {
+          "package_name": "com.toysbox.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMjjJqQoKTHmcQ5bOzntuKL15JOmgAhTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
